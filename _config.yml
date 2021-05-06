@@ -12,7 +12,7 @@ baseurl: ""
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: Halla Zoltán
-# typing_text: This will be typed before 'scroll down for more'.
+# typing_text: This will be typed before 'scroll down for'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Ez a portfólió oldalam
 # email: Your E-Mail address for the email button.
