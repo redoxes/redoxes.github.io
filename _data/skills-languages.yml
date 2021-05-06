@@ -8,6 +8,6 @@
 - name: Python
   weight: 5
 
-- name: C
+- name: C(olvasás)
   weight: 5
 
