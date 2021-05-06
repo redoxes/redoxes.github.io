@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Rólam
 # about_me_description: This will be displayed under the title.
-about_me_description: A nevem Halla Zoltán 1996.05.03-án születtem Szolnokon. Gyerekkorom óta érdekel az informatika világa. Jelenleg mechatronikai mérnöki szakon tanulok az OE-BGK karán. Szabadidőmben etikus hackelést tanulok. Régi vágyam, hogy ebben a szakmában dolgozhassak. Legjobban a PEnetration testing érdekel, de úgy gondolom ebbena  szakmában nem baj ha az ember minden részébe belepillanthat.
+about_me_description: A nevem Halla Zoltán 1996.05.03-án születtem Szolnokon. Gyerekkorom óta érdekel az informatika világa. Jelenleg mechatronikai mérnöki szakon tanulok az OE-BGK karán. Szabadidőmben etikus hackelést tanulok. Régi vágyam, hogy ebben a szakmában dolgozhassak. Legjobban a Penetration testing érdekel, de úgy gondolom ebbena  szakmában nem baj ha az ember minden részébe belepillanthat.
 
 # SKILLS SECTION
 # show_skills_card:
